@@ -6,11 +6,7 @@ __ОПИС ПРОЕКТУ__
 Весь застосунок розроблений із врахуванням можливості подальшого розширення.
 
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
+Hi
 ```
 
 __КЛАСИЧНА ПОСЛІДОВНІСТЬ ДІЙ:__
