@@ -1,0 +1,29 @@
+{
+  "taskList": [
+    {
+      "id": 0,
+      "descr": "Development FORM",
+      "status": "in-process"
+    },
+    {
+      "id": 1,
+      "descr": "Development BUTTON",
+      "status": "in-process"
+    },
+    {
+      "id": 2,
+      "descr": "Development INPUTS",
+      "status": "in-process"
+    },
+    {
+      "id": 3,
+      "descr": "Testing",
+      "status": "pause"
+    },
+    {
+      "id": 4,
+      "descr": "Bug fixes",
+      "status": "pause"
+    }
+  ]
+}
