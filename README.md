@@ -65,5 +65,4 @@ __ОПИС ОСНОВНИХ ПІДХОДІВ ДО РЕАЛІЗАЦІЇ__
 __КОНТАКТИ__
 
 1. Telegram: @Kales_Nick
-2. Telephone: +38-095-76-446-70
 3. eMail: dezzplaygo@gmail.com
